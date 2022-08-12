@@ -1,0 +1,15 @@
+D:\С# Beetroot\Lesson6\Lesson6\bin\Debug\net6.0\Lesson6.exe
+D:\С# Beetroot\Lesson6\Lesson6\bin\Debug\net6.0\Lesson6.deps.json
+D:\С# Beetroot\Lesson6\Lesson6\bin\Debug\net6.0\Lesson6.runtimeconfig.json
+D:\С# Beetroot\Lesson6\Lesson6\bin\Debug\net6.0\Lesson6.dll
+D:\С# Beetroot\Lesson6\Lesson6\bin\Debug\net6.0\ref\Lesson6.dll
+D:\С# Beetroot\Lesson6\Lesson6\bin\Debug\net6.0\Lesson6.pdb
+D:\С# Beetroot\Lesson6\Lesson6\obj\Debug\net6.0\Lesson6.csproj.AssemblyReference.cache
+D:\С# Beetroot\Lesson6\Lesson6\obj\Debug\net6.0\Lesson6.GeneratedMSBuildEditorConfig.editorconfig
+D:\С# Beetroot\Lesson6\Lesson6\obj\Debug\net6.0\Lesson6.AssemblyInfoInputs.cache
+D:\С# Beetroot\Lesson6\Lesson6\obj\Debug\net6.0\Lesson6.AssemblyInfo.cs
+D:\С# Beetroot\Lesson6\Lesson6\obj\Debug\net6.0\Lesson6.csproj.CoreCompileInputs.cache
+D:\С# Beetroot\Lesson6\Lesson6\obj\Debug\net6.0\Lesson6.dll
+D:\С# Beetroot\Lesson6\Lesson6\obj\Debug\net6.0\ref\Lesson6.dll
+D:\С# Beetroot\Lesson6\Lesson6\obj\Debug\net6.0\Lesson6.pdb
+D:\С# Beetroot\Lesson6\Lesson6\obj\Debug\net6.0\Lesson6.genruntimeconfig.cache
